@@ -20,4 +20,7 @@ var myVar = "Hello, world!";
 MODULE M_SHAPE
 INTEGER MyInt
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
